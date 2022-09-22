@@ -38,7 +38,7 @@ You can assume the `balance` is the value of **today** and the list of transacti
 
 Clone this repository, implement the required feature and publish it on your GitHub, GitLab, or whatever.
 
-Feel free to make any changes to the existing codebase. You are encouraged to write tests to help you during this process.
+Feel free to make any changes to the existing codebase or even rebuild with a different programming language. You are encouraged to write tests to help you during this process.
 
 Please commit as frequently as possible to make the review easier.
 
